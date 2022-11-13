@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 42de3523f02382f409612ee10066017d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bola Blanca
+    100004: BolaAmarilla
+    100006: BolaAmarilla_end
+    100008: BolaAzul
+    100010: BolaAzul_end
+    100012: BolaBlanca
+    100014: BolaBlanca_end
+    100016: BolaLisaAmarilla
+    100018: BolaNegra
+    100020: BolaNegra 1
+    100022: BolaNegra_end
+    100024: BolaPurpura
+    100026: BolaPurpura 1
+    100028: BolaPurpura_end
+    100030: BolaRayadaAzul
+    100032: BolaRayadaRoja
+    100034: BolaRoja
+    100036: BolaRoja_end
+    100038: MesaDePool
+    100040: //RootNode
+    100042: Taco
+    100044: Taco 1
+    100046: Taco_end
+    400000: Armature
+    400002: Bola Blanca
+    400004: BolaAmarilla
+    400006: BolaAmarilla_end
+    400008: BolaAzul
+    400010: BolaAzul_end
+    400012: BolaBlanca
+    400014: BolaBlanca_end
+    400016: BolaLisaAmarilla
+    400018: BolaNegra
+    400020: BolaNegra 1
+    400022: BolaNegra_end
+    400024: BolaPurpura
+    400026: BolaPurpura 1
+    400028: BolaPurpura_end
+    400030: BolaRayadaAzul
+    400032: BolaRayadaRoja
+    400034: BolaRoja
+    400036: BolaRoja_end
+    400038: MesaDePool
+    400040: //RootNode
+    400042: Taco
+    400044: Taco 1
+    400046: Taco_end
+    2100000: PaletaDegrade
+    2100002: TsaiPool
+    2100004: Madera
+    2300000: MesaDePool
+    3300000: MesaDePool
+    4300000: MesaDePool
+    4300002: Taco
+    4300004: Bola Blanca
+    4300006: BolaNegra
+    4300008: BolaPurpura
+    4300010: BolaRayadaAzul
+    4300012: BolaLisaAmarilla
+    4300014: BolaRayadaRoja
+    7400000: Armature|ArmatureAction.001
+    7400002: Armature|ArmatureAction.002
+    7400004: Armature|ArmatureAction.003
+    7400006: Armature|ArmatureAction.004
+    7400008: Armature|Bola Blanca.001Action.002
+    7400010: Armature|BolaLisaAmarilla.001Action.001
+    7400012: Armature|BolaLisaAmarilla.001Action.002
+    7400014: Armature|BolaNegra.001Action.001
+    7400016: Armature|BolaNegra.001Action.002
+    7400018: Armature|BolaPurpura.001Action.001
+    7400020: Armature|BolaPurpura.001Action.002
+    7400022: Armature|BolaRayadaAzul.001Action.001
+    7400024: Armature|BolaRayadaAzul.001Action.002
+    7400026: Armature|BolaRayadaRoja.001Action.001
+    7400028: Armature|BolaRayadaRoja.001Action.002
+    7400030: Armature|MesaDePool.001Action.001
+    7400032: Armature|MesaDePool.001Action.002
+    7400034: Armature|MesaDePool.002Action
+    7400036: Armature|Taco.001Action.001
+    7400038: Armature|Taco.001Action.002
+    9500000: //RootNode
+    13700000: Bola Blanca
+    13700002: BolaLisaAmarilla
+    13700004: BolaNegra
+    13700006: BolaPurpura
+    13700008: BolaRayadaAzul
+    13700010: BolaRayadaRoja
+    13700012: Taco
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
